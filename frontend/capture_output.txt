@@ -1,0 +1,84 @@
+﻿node.exe : 
+SCRIPT_ERROR: 
+browserType.launch: 
+Executable doesn't 
+exist at C:\Users\ba
+rot\AppData\Local\ms
+-playwright\chromium
+_headless_shell-1208
+\chrome-headless-she
+ll-win64\chrome-head
+less-shell.exe
+At line:1 char:267
++ ... laywright 
+install chromium; & 
+$nodePath 
+capture_logs.cjs 
+2>&1 | Out-F ...
++                   
+              ~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (SCRI   
+ PT_ERROR: b...d    
+less-shell.exe:    
+String) [], Rem    
+oteException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòù
+Γòæ Looks like 
+Playwright Test or 
+Playwright was just 
+installed or 
+updated. Γòæ
+Γòæ Please run the 
+following command 
+to download new 
+browsers:           
+   Γòæ
+Γòæ                 
+                    
+                    
+                Γòæ
+Γòæ     npx 
+playwright install  
+                    
+                    
+    Γòæ
+Γòæ                 
+                    
+                    
+                Γòæ
+Γòæ <3 Playwright 
+Team                
+                    
+                  
+Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò
+ÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓ
+òÉΓò¥

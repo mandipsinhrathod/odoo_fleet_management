@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased overflow-x-hidden font-sans;
+  }
+}
+
+@layer components {
+
+  /* Corporate Cards */
+  .glass-card {
+    @apply bg-white rounded-xl shadow-sm border border-slate-200 transition-all duration-300;
+  }
+
+  .glass-card:hover {
+    @apply shadow-md -translate-y-[1px];
+  }
+
+  /* Minimalist Sidebar */
+  .glass-sidebar {
+    @apply bg-slate-900 border-r border-slate-800 shadow-2xl;
+  }
+
+  /* Sidebar Navigation */
+  .premium-nav-item {
+    @apply flex items-center space-x-3 p-3 rounded-lg transition-all duration-200 hover:bg-white/10 text-slate-400 hover:text-white relative overflow-hidden;
+  }
+
+  .nav-active-glow {
+    @apply absolute left-0 w-1 h-full bg-[#26a394] rounded-r-md;
+  }
+
+  /* Typography */
+  .text-gradient {
+    @apply text-[#1b8177] font-bold;
+  }
+
+  /* Solid Buttons */
+  .glow-button {
+    @apply px-6 py-2.5 rounded-lg bg-[#26a394] text-white font-medium transition-all duration-200 hover:bg-[#1b8177] hover:shadow-md active:transform active:scale-95;
+  }
+}
+
+/* Custom Scrollbar for Light Theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-slate-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 rounded-full hover:bg-slate-400 transition-colors;
+}
